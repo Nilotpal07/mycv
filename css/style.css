@@ -1,0 +1,32 @@
+body{
+  background-color: #EEEEEE;
+  font-family: Arial;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  border-color: #263859;
+  width: 20%;
+  text-align: inherit;
+
+}
+img{
+  border-style: hidden;
+}
+h3{
+  color: #801336;
+
+}
+.details{
+  font-style: italic;
+}
+.hob{
+  font-style: italic;
+}
+.sn{
+  width: 30px;
+  height: 30px;
+}
